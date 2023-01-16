@@ -1,7 +1,8 @@
 # I Can't Feel My Face 😳
-A easier way for both students and lecturers to record attendance in zoom meetings in various scenarios - from lectures, tutorials, or even examination. Facial Recognition is used to detect students.
 
-`Made for Hack n Roll 2023`
+`Made for HacknRoll 2023`
+
+An easier way for both students and lecturers to record attendance in zoom meetings in various scenarios - from lectures, tutorials, or even examination using facial recognition.
 
 Frontend: [link to repo](https://github.com/hacknroll2023-winners/icantfeelmyface-frontend)
 
